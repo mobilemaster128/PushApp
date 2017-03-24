@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8557E7466B36852117A52605DE031F40C035F5A6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8557E7466B36852117A52605DE031F40C035F5A6" : 9223372036854775807,
+    "16F0ADD155505213B1C18D2EC55E6724D0D21A48" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "12F261D6-3492-4B99-AB7A-16481E77E2EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8557E7466B36852117A52605DE031F40C035F5A6" : "PushApp\/Pods\/",
+    "16F0ADD155505213B1C18D2EC55E6724D0D21A48" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PushApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PushApp.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mobilemaster128\/PushApp-AWS-FireBase-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "16F0ADD155505213B1C18D2EC55E6724D0D21A48"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mobilemaster128\/AWS-and-FireBase-PushNotification.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8557E7466B36852117A52605DE031F40C035F5A6"
+    }
+  ]
+}
