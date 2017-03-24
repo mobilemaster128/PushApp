@@ -1,0 +1,6 @@
+framework module Pods_PushApp {
+  umbrella header "Pods-PushApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
